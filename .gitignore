@@ -1,0 +1,13 @@
+.ipynb_checkpoints/*
+data/*
+log/*
+models/*
+/*PyTorch
+Submition/*
+work/*
+submit.csv
+Примечание.docx
+Что можно сделать.docx
+кепка.png
+model_rs18
+Loss_lr=0.001.png
